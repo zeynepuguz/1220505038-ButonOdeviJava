@@ -1,7 +1,4 @@
-# 1220505038
-
-
-## Buton Tasarımı Ve GraphQL
+# Buton Tasarımı Ve GraphQL
 
 
 
