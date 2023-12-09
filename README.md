@@ -5,10 +5,10 @@
 
 
 
-**Proje Amacı**
+**Projenin Amacı**
 
 
-Proje, 4x4 tipinde oluşturulan bir buton panelindeki butonların aktiflik pasiflik durumlarına göre değişimlerini önümüze sunuyor.
+Proje, 4x4 tipinde oluşturulan bir buton panelindeki butonların aktiflik pasiflik durumlarına göre değişimlerini sağlıyor.
 
 
 
